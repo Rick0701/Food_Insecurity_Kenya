@@ -1,5 +1,5 @@
 # Food_Insecurity_Kenya
-An economic accessbility analysis made during the Data Kind Event
+An economic accessbility analysis made during the Data Kind Event (1st - 4th December 2022)
 
 Datakind event: https://www.datakind.org/dec22datadive
 
